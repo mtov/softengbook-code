@@ -3,7 +3,7 @@
 Although simple and self-contained, the following examples were designed to emulate real-world use cases of design patterns.
 
 * [Factory](https://github.com/mtov/softengbook-code/blob/main/ch6/Factory-Design-Pattern/Main.java)
-* --> [Singleton](https://github.com/mtov/ESM-ExemplosCodigo/tree/master/cap6/2-singleton)
+* [Singleton](https://github.com/mtov/softengbook-code/blob/main/ch6/Singleton-Design-Pattern/Main.java)
 * [Proxy](https://github.com/mtov/softengbook-code/blob/main/ch6/Proxy-Design-Pattern/Main.java)
 * [Adapter](https://github.com/mtov/softengbook-code/blob/main/ch6/Adapter-Design-Pattern/Main.java)
 * ---> [Decorator]()
