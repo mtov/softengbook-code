@@ -6,7 +6,7 @@ Although simple and self-contained, the following examples were designed to emul
 * [Singleton](https://github.com/mtov/softengbook-code/blob/main/ch6/Singleton-Design-Pattern/Main.java)
 * [Proxy](https://github.com/mtov/softengbook-code/blob/main/ch6/Proxy-Design-Pattern/Main.java)
 * [Adapter](https://github.com/mtov/softengbook-code/blob/main/ch6/Adapter-Design-Pattern/Main.java)
-* ---> [Decorator]()
+* [Decorator](https://github.com/mtov/softengbook-code/blob/main/ch6/Decorator-Design-Pattern/Main.java)
 * [Strategy](https://github.com/mtov/softengbook-code/blob/main/ch6/Strategy-Design-Pattern/Main.java)
 * [Observer](https://github.com/mtov/softengbook-code/blob/main/ch6/Observer-Design-Pattern/Main.java)
 * [Template Method](https://github.com/mtov/softengbook-code/blob/main/ch6/TemplateMethod-Design-Pattern/Main.java)
