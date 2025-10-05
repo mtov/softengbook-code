@@ -1,0 +1,34 @@
+# Python bytecode
+*.class
+**/target/
+
+# JavaScript
+**/node_modules/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (any folder named venv inside the repo)
+**/venv/
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.nox/
+.tox/
+.hypothesis/
+
+# pyenv
+.python-version
+
+# Editors / IDEs
+.vscode/
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
