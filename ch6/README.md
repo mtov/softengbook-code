@@ -1,4 +1,4 @@
-# Ch. 6 – Design Patterns
+# Chapter 6 – Design Patterns
 
 Although simple and self-contained, the following examples were designed to emulate real-world use cases of design patterns.
 
