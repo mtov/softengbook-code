@@ -2,7 +2,7 @@
 
 Source code examples from the book [Software Engineering: A Modern Approach](https://softengbook.org/).
 
-* [Chapter 6]() - Design patterns examples
+* [Chapter 6](https://github.com/mtov/softengbook-code/tree/main/ch6) - Design patterns examples
 
 ## How to run the examples?
 
