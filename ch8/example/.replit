@@ -1,5 +1,0 @@
-run = "mvn test"
-
-[nix]
-channel = "stable-22_11"
-
