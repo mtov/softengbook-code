@@ -1,8 +1,4 @@
-# Software Engineering: A Modern Approach 
-
-#### Marco Tulio Valente - https://softengbook.org
-
-## Chapter 8 - Unit Test Examples
+# Chapter 8 - Unit Test Examples
 
 ### Class Stack
 
@@ -10,9 +6,6 @@
   [Stack.java](./src/main/java/org/softengbook/chapter8/Stack.java)
 - Unit Test:
 [StackTest.java](./src/test/java/org/softengbook/chapter8/StackTest.java)
-
-- To execute the tests: click on the Run bottom above
-- The test results are **shown** in the Console window (on the right).
   
 ### BookSearch (using Mockito)
 
@@ -31,6 +24,4 @@
 
 ### Coverage Reports
 
-- In the File Explorer (on the left), click on the three vertical dots (at the top), and then "Download as zip"
-- Unzip the zip file on your local machine and open the file
-`target\site\jacoco\index.html` in a browser.
+Open the file `.\target\site\jacoco\index.html` in a browser.
