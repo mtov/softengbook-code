@@ -10,16 +10,16 @@
 ### BookSearch (using Mockito)
 
 - Class Under Test:
-  [BookSearch.java](./src/main/java/org/softengbook/chapter8/BookSearch.java)
+  [BookSearch.java](./example/src/main/java/org/softengbook/chapter8/BookSearch.java)
 - Unit Test:
-  [BookSearchTest.java](./src/test/java/org/softengbook/chapter8/BookSearchTest.java)
+  [BookSearchTest.java](./example/src/test/java/org/softengbook/chapter8/BookSearchTest.java)
 
  ### BMIServlet (using Mockito)
 
 - Class Under Test:
-  [BMIServlet.java](./src/main/java/org/softengbook/chapter8/BMIServlet.java)
+  [BMIServlet.java](./example/src/main/java/org/softengbook/chapter8/BMIServlet.java)
 - Unit Test:
-  [BMIServletTest.java](./src/test/java/org/softengbook/chapter8/BMIServletTest.java)
+  [BMIServletTest.java](./example/src/test/java/org/softengbook/chapter8/BMIServletTest.java)
 
 
 ### Coverage Reports
