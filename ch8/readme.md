@@ -33,4 +33,4 @@ To run the coverage tool, type in the root folder (`example`):
 
 `mvn jacoco:prepare-agent test install jacoco:report`
 
-Then, open the file [.\target\site\jacoco\index.html](.\target\site\jacoco\index.html) in a browser.
+Then, open the local file `.\target\site\jacoco\index.html](.\target\site\jacoco\index.html` in a browser.
