@@ -5,7 +5,7 @@
 - Class Under Test:
   [Stack.java](./src/main/java/org/softengbook/chapter8/Stack.java)
 - Unit Test:
-[StackTest.java](./src/test/java/org/softengbook/chapter8/StackTest.java)
+[StackTest.java](./src/main/java/org/softengbook/chapter8/StackTest.java)
   
 ### BookSearch (using Mockito)
 
