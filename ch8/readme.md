@@ -14,13 +14,12 @@
 - Unit Test:
   [BookSearchTest.java](./example/src/test/java/org/softengbook/chapter8/BookSearchTest.java)
 
- ### BMIServlet (using Mockito)
+### BMIServlet (using Mockito)
 
 - Class Under Test:
   [BMIServlet.java](./example/src/main/java/org/softengbook/chapter8/BMIServlet.java)
 - Unit Test:
   [BMIServletTest.java](./example/src/test/java/org/softengbook/chapter8/BMIServletTest.java)
-
 
 ## How to run the tests?
 
@@ -28,6 +27,10 @@ Simply type in the root folder (`example`):
 
 `mvn clean test`
 
-### Coverage Reports
+## Coverage Tool
 
-Open the file `.\target\site\jacoco\index.html` in a browser.
+To run the coverage tool, type in the root folder (`example`):
+
+`mvn jacoco:prepare-agent test install jacoco:report`
+
+Then, open the file [target\site\jacoco\index.html](target\site\jacoco\index.html) in a browser.
