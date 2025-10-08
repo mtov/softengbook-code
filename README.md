@@ -3,6 +3,7 @@
 Source code examples from the book [Software Engineering: A Modern Approach](https://softengbook.org/).
 
 * [Chapter 6](./ch6) - Design patterns examples
+* [Chapter 8](./ch8) - Examples of tests
 
 ## How to run the examples?
 
