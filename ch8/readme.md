@@ -22,6 +22,12 @@
   [BMIServletTest.java](./example/src/test/java/org/softengbook/chapter8/BMIServletTest.java)
 
 
+## How to run the tests?
+
+Simply type in the root folder (`example`):
+
+`mvn clean test`
+
 ### Coverage Reports
 
 Open the file `.\target\site\jacoco\index.html` in a browser.
